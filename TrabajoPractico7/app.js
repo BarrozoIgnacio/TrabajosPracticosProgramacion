@@ -1,0 +1,1 @@
+let edadCliente = 18
