@@ -10,7 +10,7 @@ let textoOriginal = "Este parrafo puede ser modificado.";
 let colorTextoOriginal = "black";
 let colorFondoOriginal = "white";
 let fuenteOriginal = "Arial";
-let tamanoOriginal = "20px";
+let tamañoOriginal = "20px";
 
 btnFondo.onclick = function () {
     parrafo.style.backgroundColor = "blue";

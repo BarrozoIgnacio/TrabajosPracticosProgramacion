@@ -1,0 +1,159 @@
+body {
+    background-color: #eeeeee;
+    padding: 20px;
+}
+
+#titulo {
+    color: #333333;
+}
+
+#subtitulo {
+    color: #555555;
+}
+
+#ejercicio1 {
+    background-color: white;
+    width: 200px;
+    margin: 20px;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+#ejercicio2 {
+    background-color: white;
+    width: 200px;
+    margin: 20px;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+#ejercicio3 {
+    background-color: white;
+    width: 200px;
+    margin: 20px;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+#ejercicio4 {
+    background-color: white;
+    width: 200px;
+    margin: 20px;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+#ejercicio5 {
+    background-color: white;
+    width: 200px;
+    margin: 20px;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+#ejercicio6 {
+    background-color: white;
+    width: 200px;
+    margin: 20px;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+#ejercicio7 {
+    background-color: white;
+    width: 200px;
+    margin: 20px;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+#parrafo1 {
+    font-size: 18px;
+    color: #444444;
+}
+
+#parrafo2 {
+    font-size: 18px;
+    color: #444444;
+}
+
+#parrafo3 {
+    font-size: 18px;
+    color: #444444;
+}
+
+#parrafo4 {
+    font-size: 18px;
+    color: #444444;
+}
+
+#parrafo5 {
+    font-size: 18px;
+    color: #444444;
+}
+
+#parrafo6 {
+    font-size: 18px;
+    color: #444444;
+}
+
+#parrafo7 {
+    font-size: 18px;
+    color: #444444;
+}
+
+#boton1 {
+    padding: 10px 20px;
+    border: none;
+    border-radius: 6px;
+    background-color: #333333;
+    color: white;
+}
+
+#boton2 {
+    padding: 10px 20px;
+    border: none;
+    border-radius: 6px;
+    background-color: #333333;
+    color: white;
+}
+
+#boton3 {
+    padding: 10px 20px;
+    border: none;
+    border-radius: 6px;
+    background-color: #333333;
+    color: white;
+}
+
+#boton4 {
+    padding: 10px 20px;
+    border: none;
+    border-radius: 6px;
+    background-color: #333333;
+    color: white;
+}
+
+#boton5 {
+    padding: 10px 20px;
+    border: none;
+    border-radius: 6px;
+    background-color: #333333;
+    color: white;
+}
+
+#boton6 {
+    padding: 10px 20px;
+    border: none;
+    border-radius: 6px;
+    background-color: #333333;
+    color: white;
+}
+
+#boton7 {
+    padding: 10px 20px;
+    border: none;
+    border-radius: 6px;
+    background-color: #333333;
+    color: white;
+}
