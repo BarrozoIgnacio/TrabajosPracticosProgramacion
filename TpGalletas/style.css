@@ -1,0 +1,20 @@
+.body {
+    text-align: center;
+    font-family: Arial;
+    background-color: lightgray;
+}
+
+#h1 {
+    font-size: 40px;
+}
+
+#puntaje {
+    font-size: 30px;
+    color: black;
+}
+
+#button {
+    padding: 10px 20px;
+    margin: 5px;
+    font-size: 20px;
+}
